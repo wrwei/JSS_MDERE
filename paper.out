@@ -1,0 +1,28 @@
+\BOOKMARK [1][]{section.1}{1 Introduction}{}% 1
+\BOOKMARK [1][]{section.2}{2 Background and Motivation}{}% 2
+\BOOKMARK [2][]{subsection.2.1}{2.1 Safety Cases}{section.2}% 3
+\BOOKMARK [2][]{subsection.2.2}{2.2 Safety Cases and Model Driven Engineering}{section.2}% 4
+\BOOKMARK [2][]{subsection.2.3}{2.3 Assurance Cases and the Structured Assurance Case Metamodel}{section.2}% 5
+\BOOKMARK [2][]{subsection.2.4}{2.4 Model-Based System Assurance and Open Adaptive Systems}{section.2}% 6
+\BOOKMARK [2][]{subsection.2.5}{2.5 Summarised Motivations}{section.2}% 7
+\BOOKMARK [1][]{section.3}{3 The Goal Structuring Notation}{}% 8
+\BOOKMARK [1][]{section.4}{4 Structured Assurance Case Metamodel}{}% 9
+\BOOKMARK [2][]{subsection.4.1}{4.1 SACM Overview}{section.4}% 10
+\BOOKMARK [2][]{subsection.4.2}{4.2 SACM AssuranceCase Component}{section.4}% 11
+\BOOKMARK [2][]{subsection.4.3}{4.3 SACM Base Component}{section.4}% 12
+\BOOKMARK [2][]{subsection.4.4}{4.4 SACM Artifact Component}{section.4}% 13
+\BOOKMARK [2][]{subsection.4.5}{4.5 SACM Terminology Component}{section.4}% 14
+\BOOKMARK [2][]{subsection.4.6}{4.6 SACM Argumentation Component}{section.4}% 15
+\BOOKMARK [2][]{subsection.4.7}{4.7 Summary}{section.4}% 16
+\BOOKMARK [1][]{section.5}{5 SACM: Examples}{}% 17
+\BOOKMARK [2][]{subsection.5.1}{5.1 Example: Making Claims and Citations}{section.5}% 18
+\BOOKMARK [2][]{subsection.5.2}{5.2 Example: AssertedRelationships and ArgumentReasoning}{section.5}% 19
+\BOOKMARK [2][]{subsection.5.3}{5.3 Example: Argumentation Patterns}{section.5}% 20
+\BOOKMARK [2][]{subsection.5.4}{5.4 Example: A case study on the European Train Control Systems \(ETCS\)}{section.5}% 21
+\BOOKMARK [1][]{section.6}{6 Metamodel for existing notations and the transformations from them to SACM}{}% 22
+\BOOKMARK [2][]{subsection.6.1}{6.1 The GSN Metamodel and the inteoperability from GSN to SACM}{section.6}% 23
+\BOOKMARK [2][]{subsection.6.2}{6.2 The CAE metamodel and the interoprability from CAE to SACM}{section.6}% 24
+\BOOKMARK [1][]{section.7}{7 Tool Support and Future Work}{}% 25
+\BOOKMARK [2][]{subsection.7.1}{7.1 Assurance Case Modelling Environment - ACME}{section.7}% 26
+\BOOKMARK [2][]{subsection.7.2}{7.2 Future Work}{section.7}% 27
+\BOOKMARK [1][]{section.8}{8 Conclusion}{}% 28

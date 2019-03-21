@@ -1,0 +1,112 @@
+\documentclass[preprint,11pt,authoryear]{elsarticle}
+
+\usepackage[colorlinks,bookmarksopen,bookmarksnumbered,citecolor=red,urlcolor=black]{hyperref}
+\usepackage{graphicx}
+\usepackage{listings}
+\usepackage{caption}
+\usepackage{subfiles}
+\usepackage[ruled, linesnumbered]{algorithm2e}
+\graphicspath{{./graphics/}}
+\newcommand{\Let}{\textbf{let~}}
+\newcommand{\Call}{\textbf{call~}}
+\newcommand{\var}[1]{\texttt{#1}}
+%\setcitestyle{numbers}
+\setcitestyle{square}
+
+
+ 
+%-------------------------------------------------
+% Comments/Collaboration
+%-------------------------------------------------
+\usepackage[dvipsnames]{xcolor}
+\usepackage{todonotes}
+\newcommand\will[1]{\todo[author=Will,color=Orchid]{#1}}
+\newcommand\tim[1]{\todo[author=Tim,color=Apricot]{#1}}
+\newcommand\richard[1]{\todo[author=Richard,color=JungleGreen]{#1}}
+
+\lstset{escapeinside={/*@}{@*/}}
+\definecolor{codebackground}{rgb}{0.95,0.95,0.95}
+\lstset{backgroundcolor=\color{codebackground}}
+
+
+\lstset{
+	xleftmargin=2em,
+	captionpos=b,
+	basicstyle=\ttfamily\color[rgb]{0.4,0.4,0.4},
+	columns=flexible,
+	tabsize=2,
+	numbers=left,
+	keywordstyle=\bfseries\color[rgb]{0,0,0},
+	nolol=true
+}
+
+\lstdefinelanguage{ETL}{
+	morekeywords={import, pre, post, var, rule, to, extends, not, with, guard, match, merge, transform, for, in, and, or, self, operation, return, def, if, new, else, match, compare, conform, into, switch, case, default, model, alias, driver, path, nsuri},
+	sensitive=true,
+	morecomment=[l]{//},
+	morecomment=[s]{/*}{*/},
+	morestring=[b]",
+	showstringspaces=false
+}
+
+
+\begin{document}
+	\begin{frontmatter}
+		
+		\title{Model Based System Assurance Using the Structured Assurance Case Metamodel}
+		
+		\author[york]{Ran Wei}
+	    \ead{ran.wei@york.ac.uk}
+		
+		\author[york]{Tim P. Kelly\corref{mycorrespondingauthor}}
+		\ead{tim.kelly@york.ac.uk}
+		
+		\author[york]{Shuai Zhao\corref{mycorrespondingauthor}}
+		\ead{shuai.zhao@york.ac.uk}
+		
+		\author[york]{Richard Hawkins}
+
+		
+		\address[york]{Department of Computer Science, University of York, York, YO10 5GH, UK}
+		
+		\cortext[mycorrespondingauthor]{Corresponding author}
+
+\begin{abstract}
+Assurance cases are used to demonstrate confidence in system properties of interest (e.g. safety and/or security).
+A number of system assurance approaches are adopted by industries in the safety-critical domain.
+However, the task of constructing assurance cases remains a manual, lengthy and informal process. 
+The Structured Assurance Case Metamodel (SACM) is a standard specified by the Object Management Group (OMG). 
+SACM provides a richer set of features than existing system assurance languages/approaches.
+SACM provides a foundation for model-based system assurance, which bears great application potentials in growing technology domains such as Open Adaptive Systems.
+However, the intended usage of SACM has not been sufficiently explained. 
+In addition, there has not been support to interoperate between existing assurance case models and SACM models.
+
+In this paper, we explain the intended usage of SACM based on our involvement in the OMG specification process of SACM.
+In addition, to promote a model based approach, we provide SACM compliant metamodels for existing system assurance approaches (the Goal Structuring Notation and Claims-Arguments-Evidence), and the transformations from them to SACM. 
+We also briefly discuss the tool support for model-based system assurance which help practitioners make the transition from existing system assurance approaches to model-based system assurance using SACM.
+
+\end{abstract}
+\begin{keyword}
+Model Driven Engineering; Structured Assurance Case Metamodel; Model Based System Assurance; Goal Structuring Notation; Claims-Arguments-Evidence
+\end{keyword}
+
+\end{frontmatter}
+
+\subfile{"1.introduction.tex"}
+\subfile{"2.background.tex"}
+\subfile{"3.gsn.tex"}
+\subfile{"4.sacm.tex"}
+\subfile{"5.gsn_and_sacm.tex"}
+\subfile{"6.tool_support.tex"}
+\subfile{"7.conclusion.tex"}
+
+
+\vspace{2em}
+\noindent\textbf{Acknowledgements}
+This work is supported by the European Union'’s Horizon 2020 research and innovation programme through the DEIS project (grant agreement No 732242). 
+
+
+\bibliographystyle{ieeetr}
+\bibliography{references}
+
+\end{document}

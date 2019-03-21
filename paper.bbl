@@ -1,0 +1,183 @@
+\begin{thebibliography}{10}
+
+\bibitem{healthFound}
+H.~Foundation, {\em Using safety cases in industry and healthcare}.
+\newblock December 2012.
+
+\bibitem{hawkins2013assurance}
+R.~Hawkins, I.~Habli, T.~Kelly, and J.~McDermid, ``Assurance cases and
+  prescriptive software safety certification: A comparative study,'' {\em
+  Safety science}, vol.~59, pp.~55--71, 2013.
+
+\bibitem{kelly2004goal}
+T.~Kelly and R.~Weaver, ``The goal structuring notation--a safety argument
+  notation,'' in {\em Proceedings of the dependable systems and networks 2004
+  workshop on assurance cases}, p.~6, Citeseer, 2004.
+
+\bibitem{bishop2000methodology}
+P.~Bishop and R.~Bloomfield, ``A methodology for safety case development,'' in
+  {\em Safety and Reliability}, vol.~20, pp.~34--42, Taylor \& Francis, 2000.
+
+\bibitem{maksimov2018}
+M.~Maksimov, N.~Fung, S.~Kokaly, and M.~Chechik, ``Two decades of assurance
+  case tools: A survey,'' in {\em Proc. 6th International Workshop on Assurance
+  Cases for Software-Intensive Systems (ASSURE 2018)}, 2018.
+
+\bibitem{denney2017tool}
+E.~Denney and G.~Pai, ``Tool support for assurance case development,'' {\em
+  Automated Software Engineering}, pp.~1--65, 2017.
+
+\bibitem{matsuno2010dependability}
+Y.~Matsuno, H.~Takamura, and Y.~Ishikawa, ``A dependability case editor with
+  pattern library,'' in {\em High-Assurance Systems Engineering (HASE), 2010
+  IEEE 12th International Symposium on}, pp.~170--171, IEEE, 2010.
+
+\bibitem{netkachova2014tool}
+K.~Netkachova, O.~Netkachov, and R.~Bloomfield, ``Tool support for assurance
+  case building blocks,'' in {\em International Conference on Computer Safety,
+  Reliability, and Security}, pp.~62--71, Springer, 2014.
+
+\bibitem{larrucea2017supporting}
+X.~Larrucea, A.~Walker, and R.~Colomo-Palacios, ``Supporting the management of
+  reusable automotive software,'' {\em IEEE Software}, no.~3, pp.~40--47, 2017.
+
+\bibitem{barry2011certware}
+M.~R. Barry, ``Certware: A workbench for safety case production and analysis,''
+  in {\em Aerospace Conference, 2011 IEEE}, pp.~1--10, IEEE, 2011.
+
+\bibitem{hse}
+Health and S.~E. (HSE), {\em Safety Assessment Principles for Nuclear
+  Facilities}.
+\newblock 2006.
+
+\bibitem{mod2007}
+U.~M. of~Defence~(MoD), {\em Defence Standard 00-56 Issue 4: Safety Management
+  Requirements for Defence Systems}.
+\newblock 2007.
+
+\bibitem{caa2007}
+S.~R.~G. Civil Aviation Authority~(CAA), {\em CAP 670 - Air Traffic Services
+  Safety Requirements}.
+\newblock 2007.
+
+\bibitem{yellowBook2007}
+R.~Safety and S.~Board, {\em Engineering Safety Management (The Yellow Book)}.
+\newblock 2007.
+
+\bibitem{chinneck2004turning}
+P.~Chinneck, D.~Pumfrey, and T.~Kelly, ``Turning up the heat on safety case
+  construction,'' in {\em Practical Elements of Safety}, pp.~223--240,
+  Springer, 2004.
+
+\bibitem{kelly2005costs}
+T.~Kelly and S.~B. Meng, ``The costs, benefits, and risks associated with
+  patternbased and modular safety case development," to appear,'' in {\em in
+  Proceedings of the UK MoD Equipment Safety Assurance Symposium}, Citeseer,
+  2005.
+
+\bibitem{jaaksi2002developing}
+A.~Jaaksi, ``{Developing Mobile Browsers in a Product Line},'' {\em IEEE
+  software}, vol.~19, no.~4, pp.~73--80, 2002.
+
+\bibitem{karna2009evaluating}
+J.~K{\"a}rn{\"a}, J.-P. Tolvanen, and S.~Kelly, ``{Evaluating the Use of
+  Domain-Specific Modeling in Practice},'' in {\em {Proceedings of the 9th
+  OOPSLA workshop on Domain-Specific Modeling}}, 2009.
+
+\bibitem{bloomfield2010safety}
+R.~Bloomfield and P.~Bishop, ``Safety and assurance cases: Past, present and
+  possible future--an adelard perspective,'' in {\em Making Systems Safer},
+  pp.~51--67, Springer, 2010.
+
+\bibitem{lautieri2005safsec}
+S.~Lautieri, D.~Cooper, and D.~Jackson, ``Safsec: Commonalities between safety
+  and security assurance,'' in {\em Constituents of Modern System-safety
+  Thinking}, pp.~65--75, Springer, 2005.
+
+\bibitem{sacm}
+``{Structured Assurance Case Metamodel, Object Management Group}.''
+  \url{https://www.omg.org/spec/SACM/About-SACM/}.
+\newblock Accessed: 06-04-2018.
+
+\bibitem{despotou2008investigating}
+G.~Despotou and T.~Kelly, ``Investigating the use of argument modularity to
+  optimise through-life system safety assurance,'' 2008.
+
+\bibitem{denney2013formal}
+E.~Denney and G.~Pai, ``A formal basis for safety case patterns,'' in {\em
+  International Conference on Computer Safety, Reliability, and Security},
+  pp.~21--32, Springer, 2013.
+
+\bibitem{luo2015safety}
+Y.~Luo, M.~van~den Brand, and A.~Kiburse, ``Safety case development with
+  sbvr-based controlled language,'' in {\em International Conference on
+  Model-Driven Engineering and Software Development}, pp.~3--17, Springer,
+  2015.
+
+\bibitem{attwood2014use}
+K.~C. Attwood, T.~Kelly, and P.~Conmy, ``The use of controlled vocabularies and
+  structured expressions in the assurance of cps,'' {\em Ada User Journal},
+  pp.~251--258, 2014.
+
+\bibitem{hawkins2011new}
+R.~Hawkins, T.~Kelly, J.~Knight, and P.~Graydon, ``A new approach to creating
+  clear safety arguments,'' in {\em Advances in systems safety}, pp.~3--23,
+  Springer, 2011.
+
+\bibitem{fenn2005putting}
+J.~Fenn and B.~Jepson, ``Putting trust into safety arguments,'' in {\em
+  Constituents of Modern System-safety Thinking}, pp.~21--35, Springer, 2005.
+
+\bibitem{armstrong2004deconstruction}
+J.~M. Armstrong and S.~E. Paynter, ``The deconstruction of safety arguments
+  through adversarial counter-argument,'' in {\em International Conference on
+  Computer Safety, Reliability, and Security}, pp.~3--16, Springer, 2004.
+
+\bibitem{taguchi2014linking}
+K.~Taguchi, S.~Daisuke, H.~Nishihara, and T.~Takai, ``Linking traceability with
+  gsn,'' in {\em Software Reliability Engineering Workshops (ISSREW), 2014 IEEE
+  International Symposium on}, pp.~192--197, IEEE, 2014.
+
+\bibitem{hawkins2015need}
+R.~D. Hawkins, I.~Habli, and T.~Kelly, ``The need for a weaving model in
+  assurance case automation,'' {\em Ada User Journal}, pp.~187--191, 2015.
+
+\bibitem{hawkins2015weaving}
+R.~Hawkins, I.~Habli, D.~Kolovos, R.~Paige, and T.~Kelly, ``Weaving an
+  assurance case from design: a model-based approach,'' in {\em High Assurance
+  Systems Engineering (HASE), 2015 IEEE 16th International Symposium on},
+  pp.~110--117, IEEE, 2015.
+
+\bibitem{trapp2013safety}
+M.~Trapp, D.~Schneider, and P.~Liggesmeyer, ``A safety roadmap to
+  cyber-physical systems,'' in {\em Perspectives on the future of software
+  engineering}, pp.~81--94, Springer, 2013.
+
+\bibitem{wei2017deis}
+R.~Wei, T.~P. Kelly, R.~Hawkins, and E.~Armengaud, ``Deis: Dependability
+  engineering innovation for cyber-physical systems,'' in {\em Federation of
+  International Conferences on Software Technologies: Applications and
+  Foundations}, pp.~409--416, Springer, 2017.
+
+\bibitem{gsn2010draft}
+G.~Committee {\em et~al.}, ``Draft gsn standard version 1.0,'' 2010.
+
+\bibitem{kelly1997safety}
+T.~P. Kelly and J.~A. McDermid, ``Safety case construction and reuse using
+  patterns,'' in {\em Safe Comp 97}, pp.~55--69, Springer, 1997.
+
+\bibitem{kolovos2008epsilon}
+D.~S. Kolovos, R.~F. Paige, and F.~A. Polack, ``The epsilon transformation
+  language,'' in {\em International Conference on Theory and Practice of Model
+  Transformations}, pp.~46--60, Springer, 2008.
+
+\bibitem{gmf}
+``{Graphical Modeling Framework}.'' \url{https://www.eclipse.org/gmf-tooling/}.
+\newblock Accessed: 06-04-2018.
+
+\bibitem{steinberg2008emf}
+D.~Steinberg, F.~Budinsky, E.~Merks, and M.~Paternostro, {\em EMF: eclipse
+  modeling framework}.
+\newblock Pearson Education, 2008.
+
+\end{thebibliography}
